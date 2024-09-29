@@ -61,13 +61,4 @@ This will start the development server and make the application available at <ht
    - Click the "Delete" button on a widget card.
    - Confirm the deletion in the modal.
 
-## Future Enhancements
-
-- **Widget Customization:** Allow users to customize widget appearance and data displayed.
-
-- **Data Persistence:** Implement data storage to save dashboard configurations.
-
-- **User Authentication:** Add user accounts and role-based access control.
-
-- **More Widget Types:** Introduce a wider variety of widgets for different data visualizations.
 
