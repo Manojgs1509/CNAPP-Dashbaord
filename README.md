@@ -1,10 +1,10 @@
 # CNAPP Dashboard
 
-This project is a dynamic dashboard application built with React, Redux Toolkit, and Tailwind CSS. It allows users to visualize and manage widgets within different categories.
+This project is a responsive dashboard application developed using React, Tailwind CSS, and Redux Toolkit, enabling users to efficiently organize and display widgets across various categories.
 
 ## Check Live Demo
 
-You can check the live version of the project here : [CNAPP Dashboard](https://cnapp-dashboard1.netlify.app/)
+You can check the live version of the project here : [CNAPP Dashboard](https://cnapp-dashbaord.vercel.app/)
 
 ## Features
 
@@ -16,8 +16,6 @@ You can check the live version of the project here : [CNAPP Dashboard](https://c
 - **Responsive Design:**  Adapts to different screen sizes for optimal viewing.
 
 ## Technologies Used
-
-[![React](https://img.shields.io/badge/React-a900ff?logo=react&logoColor=61dafb&labelColor=2e2e2e)](https://reactjs.org/) &nbsp; [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-a900ff?logo=redux&labelColor=2e2e2e)](https://redux-toolkit.js.org/) &nbsp; [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-a900ff?logo=tailwind-css&labelColor=2e2e2e)](https://tailwindcss.com/) &nbsp; [![React Icons](https://img.shields.io/badge/React%20Icons-a900ff?logo=react&logoColor=61dafb&labelColor=2e2e2e)](https://react-icons.github.io/react-icons/) &nbsp; [![Chart.js](https://img.shields.io/badge/Chart.js-a900ff?logo=chart.js&labelColor=2e2e2e)](https://www.chartjs.org/) &nbsp; [![React Chartjs 2](https://img.shields.io/badge/React%20Chartjs%202-a900ff?logo=react&logoColor=61dafb&labelColor=2e2e2e)](https://react-chartjs-2.js.org/)
 
 - **React:** JavaScript library for building user interfaces.
 
@@ -73,6 +71,3 @@ This will start the development server and make the application available at <ht
 
 - **More Widget Types:** Introduce a wider variety of widgets for different data visualizations.
 
-## Contribution
-
-Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
