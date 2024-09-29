@@ -30,8 +30,8 @@ You can check the live version of the project here : [CNAPP Dashboard](https://c
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/rd273001/CNAPP-Dashboard.git
-   cd CNAPP-Dashboard
+   git clone https://github.com/Manojgs1509/CNAPP-Dashbaord.git
+   cd CNAPP-Dashbaord
    ```
 
 2. **Install dependencies:**
